@@ -110,6 +110,7 @@ function App() {
       const data = await response.json();
       if(data.message){
         setMarkDownBackend(data.html)
+        setMarkDown('')
       }
     } catch (error) {
       console.error('Error uploading file:', error);

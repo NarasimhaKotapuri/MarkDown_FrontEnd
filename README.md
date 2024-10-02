@@ -27,3 +27,5 @@ You may also see any lint errors in the console.
 
 > Block Quotes: Supports > Quote.
 
+### `Backend Process`
+> It will allow only .md files, once uploaded then click on the button it will hit the backend api once we got the repsonse then it will render that
