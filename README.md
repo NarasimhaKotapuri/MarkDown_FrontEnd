@@ -16,6 +16,7 @@ You may also see any lint errors in the console.
 
 ### `Features Supported`
 > Headers: Recognizes #, ##, etc., for headings.
+
 > Bold and Italic Text: Supports **bold** and *italic*.
 > Unordered and Ordered Lists: Supports - item for unordered lists and 1. item for ordered lists.
 > Links: Supports [Link Text](URL).
